@@ -1,0 +1,87 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1562147760484">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/Vue-gulu/index.html" timestamp="1562147344387">
+        <mark key="[" line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/Vue-gulu/src/button.vue" timestamp="1563156572312">
+        <mark key="'" line="0" column="0" />
+        <mark key="j" line="50" column="30" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="8" />
+        <mark key="^" line="40" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1563156778495">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="44" column="18" filename="$USER_HOME$/Project/Vue-gulu/src/button.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/Vue-gulu/src/button.vue" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">YWxpZ24taXRlbXMKICAgICAgICAm</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtcgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YWxpZ24taXRlbXMKICAgICAgICAm</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgMCV7dHJhbnNmb3JtOiByb3RhdGUoMGRlZyl9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PC9ib2R5Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTI3MzY0N19pcmd6Z3A0dGZhLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTI3MzY0N19pcmd6Z3A0dGZhLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTI3MzY0N19pcmd6Z3A0dGZhLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTI3MzY0N19pcmd6Z3A0dGZhLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>g</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
