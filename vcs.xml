@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/331862806/cnode.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/331862806/Vue-gulu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Project" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project/WEB" />
   </component>
 </application>
