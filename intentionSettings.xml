@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="XML/Remove tag" />
-    <ignoreAction name="VueJS/Extract Vue Component" />
-  </component>
-</application>
