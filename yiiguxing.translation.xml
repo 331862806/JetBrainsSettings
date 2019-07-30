@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gutter" />
       <item value="icon" />
       <item value="list of files / patterns to load in the browser" />
       <item value="Your copy is licensed to 爱我 中国. For educational use only." />
@@ -50,13 +51,13 @@
       <item value="exclude" />
       <item value="笔记" />
       <item value="book" />
-      <item value="Unknown column 'ä½ å¥½' in 'where clause'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
+        <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="43" />
         <entry key="BULGARIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
