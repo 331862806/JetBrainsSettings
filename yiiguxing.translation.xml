@@ -1,69 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="gutter" />
-      <item value="icon" />
-      <item value="list of files / patterns to load in the browser" />
-      <item value="Your copy is licensed to 爱我 中国. For educational use only." />
-      <item value="push" />
-      <item value="pull" />
-      <item value="上一张" />
-      <item value="上" />
-      <item value="clone" />
-      <item value="Inserts nodes before the first child of node, while * replacing strings in nodes with equivalent Text nodes. * Throws a &quot;HierarchyRequestError&quot; DOMException if the constraints of * the node tree are violated." />
-      <item value="Inserts nodes after the last child of node, while replacing * strings in nodes with equivalent Text nodes. * Throws a &quot;HierarchyRequestError&quot; DOMException if the constraints of * the node tree are violated." />
-      <item value="Inserts nodes before the first child of node, while" />
-      <item value="late" />
-      <item value="stay" />
-      <item value="enter" />
-      <item value="current" />
-      <item value="leave" />
-      <item value="li Dots" />
-      <item value="ele Inners" />
-      <item value="dot-list" />
-      <item value="position" />
-      <item value="inner-list" />
-      <item value="Failed to obtain seat. Unable to connect to license server. Check your network connection and/or VPN settings" />
-      <item value="last reply" />
-      <item value="before Mount" />
-      <item value="Install fail! SyntaxError: Unexpected end of JSON input (file: /media/chenhuan/Fat32/VueJS/cnode/node_modules/_webpack@3.12.0@webpack/package.json)" />
-      <item value="Installing webpack-bundle-analyzer@^2.9.0content buffer: {&quot;type&quot;:&quot;Buffer&quot;,&quot;data&quot;:[]}" />
-      <item value="webpack" />
-      <item value="You must install peer dependencies yourself." />
-      <item value="Coding assistance for different languages inside template, script and style tags in .vue files" />
-      <item value="Navigation from the component, directives and event handlers to their definition" />
-      <item value="Completion for components, directives, props and methods in templates" />
-      <item value="Features" />
-      <item value="Now, you will get Vue-specific code completion, navigation, and many other features in .vue files." />
-      <item value="Make sure you have Vue.js listed in your project dependencies in package.json and it is installed." />
-      <item value="Open your Vue.js project." />
-      <item value="Support for Vue.js projects. Getting started" />
-      <item value="offset" />
-      <item value="current Top" />
-      <item value="target Top" />
-      <item value="distance" />
-      <item value="inherit" />
-      <item value="scroll Y" />
-      <item value="infinite" />
-      <item value="colors" />
-      <item value="justify" />
-      <item value="justify-content" />
-      <item value="exclude" />
-      <item value="笔记" />
-      <item value="book" />
+      <item value="This inspection is for ability to suppress irrelevant JavaScript errors like assignment to const, continue without loop, e.t.c. Generally, this is not required, but there may be cases when such errors are unexpectedly reported due to dynamic nature of JavaScript or bugs in IDE's annotator implementation." />
     </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="43" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
-        <entry key="SPANISH" value="1" />
-      </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
