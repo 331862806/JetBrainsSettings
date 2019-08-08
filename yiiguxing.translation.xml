@@ -1,7 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sider" />
+      <item value="slider" />
       <item value="This inspection is for ability to suppress irrelevant JavaScript errors like assignment to const, continue without loop, e.t.c. Generally, this is not required, but there may be cases when such errors are unexpectedly reported due to dynamic nature of JavaScript or bugs in IDE's annotator implementation." />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="DANISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
