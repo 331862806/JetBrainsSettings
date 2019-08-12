@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Checks JavaScript parameter, local variable, function, classes and private member declarations to be used in given file scope. The validation works in JavaScript, ActionScript, HTML and JSP files." />
+      <item value="Constructor" />
       <item value="slide" />
       <item value="layout" />
       <item value="layout Class" />
@@ -11,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
