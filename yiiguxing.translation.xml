@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="module 'gitlab' has no attribute 'Gitlab'" />
       <item value="纵" />
       <item value="Horizontal" />
       <item value="横向" />
@@ -41,7 +42,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
