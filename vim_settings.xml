@@ -6,8 +6,11 @@
       <file name="/Dummy.txt" timestamp="1562147760484">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Vue-gulu/index.html" timestamp="1562147344387">
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/Project/Vue-gulu/index.html" timestamp="1567048828228">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Vue-gulu/src/button.vue" timestamp="1563156572312">
         <mark key="'" line="0" column="0" />
@@ -23,40 +26,42 @@
     <jumps>
       <jump line="44" column="18" filename="$USER_HOME$/Project/Vue-gulu/src/button.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Vue-gulu/src/button.vue" />
+      <jump line="43" column="19" filename="$USER_HOME$/Project/Vue-gulu/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/Vue-gulu/index.html" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text encoding="base64">YWxpZ24taXRlbXMKICAgICAgICAm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxnLXRhYnMtaGVhZD4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvZy10YWJzLWhlYWQ+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YWxpZ24taXRlbXMKICAgICAgICAm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxnLXRhYnMtaGVhZD4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvZy10YWJzLWhlYWQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMCV7dHJhbnNmb3JtOiByb3RhdGUoMGRlZyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvZy10YWJzLWhlYWQ+CiAgICAgICAgICAgICAgICA8YnV0dG9uPuiuvue9rjwvYnV0dG9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGlnbi1pdGVtcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAmYWxpZ24taXRlbXMKICAgICAgICAmYWxpZ24taXRlbXMKICAgICAgICAmYWxpZ24taXRlbXMKICAgICAgICAmYWxpZ24taXRlbXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAmYWxpZ24taXRlbXMKICAgICAgICAmYWxpZ24taXRlbXMKICAgICAgICAmYWxpZ24taXRlbXMKICAgICAgICAmYWxpZ24taXRlbXMKICAgICAgICAgICAgICAgIDxidXR0b24+6K6+572uPC9idXR0b24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTI3MzY0N19pcmd6Z3A0dGZhLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAmYWxpZ24taXRlbXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTI3MzY0N19pcmd6Z3A0dGZhLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAmYWxpZ24taXRlbXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTI3MzY0N19pcmd6Z3A0dGZhLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAmYWxpZ24taXRlbXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTI3MzY0N19pcmd6Z3A0dGZhLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAmYWxpZ24taXRlbXMK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
