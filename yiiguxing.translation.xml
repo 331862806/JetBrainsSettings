@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人" />
       <item value="strip" />
       <item value="namespace" />
       <item value="expect(x.class List.contains('active')).to.be.true" />
@@ -43,7 +44,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="34" />
       </map>
     </option>
