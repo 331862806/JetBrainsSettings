@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="string indices must be integers" />
       <item value="单词" />
       <item value="文字" />
       <item value="例子" />
@@ -52,7 +53,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
