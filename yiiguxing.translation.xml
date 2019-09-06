@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="例子" />
       <item value="从数据库查找id替换git id" />
       <item value="'set' object has no attribute 'split'" />
       <item value="people" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="39" />
       </map>
     </option>
   </component>
