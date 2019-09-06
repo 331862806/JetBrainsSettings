@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'ProjectMember' object is not subscriptable" />
       <item value="string indices must be integers" />
       <item value="单词" />
       <item value="文字" />
@@ -52,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
