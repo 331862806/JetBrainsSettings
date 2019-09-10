@@ -38,8 +38,12 @@
           <option name="url" value="http://gitlab.yzf.net/liuyunxiang/dz_case.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/331862806/12306.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Project/WORK-YZF" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project" />
   </component>
 </application>
