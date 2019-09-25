@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FLASKY MAIL SENDER" />
+      <item value="Development Config" />
+      <item value="Production Config" />
+      <item value="SQLALCHEMY DATABASE URI" />
+      <item value="Testing Config" />
       <item value="dir" />
       <item value="base" />
       <item value="basedir" />
@@ -46,16 +51,12 @@
       <item value="iter now" />
       <item value="command" />
       <item value="Sleeping until" />
-      <item value="Starting every 5 seconds" />
-      <item value="execute the command" />
-      <item value="Starting" />
-      <item value="Command" />
-      <item value="descriptor 'keys' of 'dict' object needs an argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="55" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
