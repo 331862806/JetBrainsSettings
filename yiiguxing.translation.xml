@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dir" />
+      <item value="base" />
+      <item value="basedir" />
       <item value="cannot import name 'Flask'" />
       <item value="'str' object has no attribute 'access_level'" />
       <item value="'ProjectMember' object is not subscriptable" />
@@ -48,14 +51,12 @@
       <item value="Starting" />
       <item value="Command" />
       <item value="descriptor 'keys' of 'dict' object needs an argument" />
-      <item value="callable" />
-      <item value="Unable to locate element:" />
-      <item value="Missing required arguments:form_component_values.name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="GERMAN" value="1" />
       </map>
     </option>
   </component>
