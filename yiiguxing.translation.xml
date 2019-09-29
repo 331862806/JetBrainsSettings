@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid email or password." />
+      <item value="You have been logged out." />
+      <item value="Confirm Your Account" />
+      <item value="A new confirmation email has been sent to you by email." />
+      <item value="The confirmation link is invalid or has expired." />
+      <item value="You have confirmed your account. Thanks!" />
+      <item value="A confirmation email has been sent to you by email" />
       <item value="Confirm password" />
       <item value="Passwords must match" />
       <item value="Usernames must have only letters, numbers, dots or ' 'underscores'" />
@@ -44,18 +51,11 @@
       <item value="perfect" />
       <item value="perfect match!" />
       <item value="match" />
-      <item value="KHTML" />
-      <item value="Contrast JSON result --&gt; perfect match!" />
-      <item value="target json" />
-      <item value="expect json" />
-      <item value="diff json error" />
-      <item value="Call a function after a specified number of seconds:" />
-      <item value="urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=45403): Max retries exceeded with url: /session/7c67c1331e01c731f1fa03f74c708b52/url (Caused by NewConnectionError('&lt;urllib3.connection.HTTPConnection object at 0x7fc8bfbb7470&gt;: Failed to establish a new connection: [Errno 111] Connection refused',))" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
