@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="column() got an unexpected keyword argument 'unique'" />
       <item value="password is not a readable attribute" />
       <item value="FLASKY MAIL SENDER" />
       <item value="Development Config" />
@@ -50,12 +51,11 @@
       <item value="ConnectionRefusedError: [Errno 111] Connection refused" />
       <item value="Exception in thread Thread-2:" />
       <item value="iter now" />
-      <item value="command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
