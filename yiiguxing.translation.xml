@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Confirm password" />
+      <item value="Passwords must match" />
+      <item value="Usernames must have only letters, numbers, dots or ' 'underscores'" />
+      <item value="must have only letters, numbers, dots or ' 'underscores'" />
       <item value="column() got an unexpected keyword argument 'unique'" />
       <item value="password is not a readable attribute" />
       <item value="FLASKY MAIL SENDER" />
@@ -47,15 +51,11 @@
       <item value="diff json error" />
       <item value="Call a function after a specified number of seconds:" />
       <item value="urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=45403): Max retries exceeded with url: /session/7c67c1331e01c731f1fa03f74c708b52/url (Caused by NewConnectionError('&lt;urllib3.connection.HTTPConnection object at 0x7fc8bfbb7470&gt;: Failed to establish a new connection: [Errno 111] Connection refused',))" />
-      <item value="During handling of the above exception, another exception occurred:" />
-      <item value="ConnectionRefusedError: [Errno 111] Connection refused" />
-      <item value="Exception in thread Thread-2:" />
-      <item value="iter now" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
