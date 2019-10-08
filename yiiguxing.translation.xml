@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="login manager" />
       <item value="password is not a readable attribute" />
       <item value="Happy to see you again!" />
       <item value="Pleased to meet you!" />
@@ -50,12 +51,11 @@
       <item value="must have only letters, numbers, dots or ' 'underscores'" />
       <item value="column() got an unexpected keyword argument 'unique'" />
       <item value="FLASKY MAIL SENDER" />
-      <item value="Development Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
