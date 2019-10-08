@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Happy to see you again!" />
+      <item value="Pleased to meet you!" />
       <item value="container" />
       <item value="hard to guess string" />
       <item value="Stranger" />
@@ -49,13 +51,11 @@
       <item value="password is not a readable attribute" />
       <item value="FLASKY MAIL SENDER" />
       <item value="Development Config" />
-      <item value="Production Config" />
-      <item value="SQLALCHEMY DATABASE URI" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
