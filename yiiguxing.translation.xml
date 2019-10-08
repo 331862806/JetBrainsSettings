@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hard to guess string" />
       <item value="Stranger" />
       <item value="password reset request" />
       <item value="Invalid request." />
@@ -50,12 +51,11 @@
       <item value="Production Config" />
       <item value="SQLALCHEMY DATABASE URI" />
       <item value="Testing Config" />
-      <item value="dir" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
