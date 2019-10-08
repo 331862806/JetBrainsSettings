@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have been logged out." />
+      <item value="Invalid email or password." />
       <item value="login manager" />
       <item value="password is not a readable attribute" />
       <item value="Happy to see you again!" />
@@ -12,7 +14,6 @@
       <item value="Invalid request." />
       <item value="Your email address has been updated." />
       <item value="Change Your Email Address" />
-      <item value="Invalid email or password." />
       <item value="An email with instructions to confirm your new email ' 'address has been sent to you" />
       <item value="Confirm your email address" />
       <item value="change email request" />
@@ -40,7 +41,6 @@
       <item value="Passwords must match." />
       <item value="Update Password" />
       <item value="Confirm new password" />
-      <item value="You have been logged out." />
       <item value="Confirm Your Account" />
       <item value="A new confirmation email has been sent to you by email." />
       <item value="The confirmation link is invalid or has expired." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
