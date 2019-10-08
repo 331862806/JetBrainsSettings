@@ -1,14 +1,44 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="password reset request" />
+      <item value="Invalid request." />
+      <item value="Your email address has been updated." />
+      <item value="Change Your Email Address" />
       <item value="Invalid email or password." />
+      <item value="An email with instructions to confirm your new email ' 'address has been sent to you" />
+      <item value="Confirm your email address" />
+      <item value="change email request" />
+      <item value="change email" />
+      <item value="Email already registered." />
+      <item value="Update Email Address'" />
+      <item value="Change Email Form" />
+      <item value="Username already in use." />
+      <item value="Keep me logged in" />
+      <item value="Register" />
+      <item value="Confirm password" />
+      <item value="Reset Password" />
+      <item value="Password Reset Form" />
+      <item value="Password Reset Request Form" />
+      <item value="Your password has been updated." />
+      <item value="password reset" />
+      <item value="Reset Your Password" />
+      <item value="An email with instructions to reset your password has been ' 'sent to you." />
+      <item value="Reset Your Password'" />
+      <item value="Invalid password." />
+      <item value="Change Your Password" />
+      <item value="Before you can access this site you need to confirm your account. Check your inbox, you should have received an email with a confirmation link." />
+      <item value="Need another confirmation email?" />
+      <item value="You have not confirmed your account yet." />
+      <item value="Passwords must match." />
+      <item value="Update Password" />
+      <item value="Confirm new password" />
       <item value="You have been logged out." />
       <item value="Confirm Your Account" />
       <item value="A new confirmation email has been sent to you by email." />
       <item value="The confirmation link is invalid or has expired." />
       <item value="You have confirmed your account. Thanks!" />
       <item value="A confirmation email has been sent to you by email" />
-      <item value="Confirm password" />
       <item value="Passwords must match" />
       <item value="Usernames must have only letters, numbers, dots or ' 'underscores'" />
       <item value="must have only letters, numbers, dots or ' 'underscores'" />
@@ -21,41 +51,11 @@
       <item value="Testing Config" />
       <item value="dir" />
       <item value="base" />
-      <item value="basedir" />
-      <item value="cannot import name 'Flask'" />
-      <item value="'str' object has no attribute 'access_level'" />
-      <item value="'ProjectMember' object is not subscriptable" />
-      <item value="string indices must be integers" />
-      <item value="单词" />
-      <item value="文字" />
-      <item value="例子" />
-      <item value="从数据库查找id替换git id" />
-      <item value="'set' object has no attribute 'split'" />
-      <item value="people" />
-      <item value="人" />
-      <item value="参数" />
-      <item value="strip" />
-      <item value="namespace" />
-      <item value="expect(x.class List.contains('active')).to.be.true" />
-      <item value="纵" />
-      <item value="Horizontal" />
-      <item value="横向" />
-      <item value="direction" />
-      <item value="director" />
-      <item value="required" />
-      <item value="sports" />
-      <item value="财经" />
-      <item value="Uncaught AssertionError: expected true to equal false" />
-      <item value="slide Down" />
-      <item value="fade in" />
-      <item value="perfect" />
-      <item value="perfect match!" />
-      <item value="match" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
