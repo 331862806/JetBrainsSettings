@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hard to guess string" />
       <item value="SENDER" />
       <item value="subject" />
       <item value="FLASKY ADMIN" />
@@ -24,7 +25,6 @@
       <item value="Happy to see you again!" />
       <item value="Pleased to meet you!" />
       <item value="container" />
-      <item value="hard to guess string" />
       <item value="password reset request" />
       <item value="Invalid request." />
       <item value="Your email address has been updated." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
       </map>
