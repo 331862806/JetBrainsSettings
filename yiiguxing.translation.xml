@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FLASKY ADMIN" />
+      <item value="FLASKY MAIL SENDER" />
+      <item value="FLASKY MAIL SUBJECT PREFIX" />
       <item value="Your password has been updated." />
       <item value="reset" />
       <item value="Account" />
@@ -48,15 +51,12 @@
       <item value="Passwords must match." />
       <item value="Update Password" />
       <item value="Confirm new password" />
-      <item value="Confirm Your Account" />
-      <item value="A new confirmation email has been sent to you by email." />
-      <item value="A confirmation email has been sent to you by email" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
+        <entry key="CHINESE" value="130" />
         <entry key="ENGLISH" value="130" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
