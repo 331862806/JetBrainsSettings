@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stranger" />
       <item value="You have been logged out." />
       <item value="Invalid email or password." />
       <item value="login manager" />
@@ -9,7 +10,6 @@
       <item value="Pleased to meet you!" />
       <item value="container" />
       <item value="hard to guess string" />
-      <item value="Stranger" />
       <item value="password reset request" />
       <item value="Invalid request." />
       <item value="Your email address has been updated." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
