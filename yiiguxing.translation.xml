@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have not confirmed your account yet." />
       <item value="The confirmation link is invalid or has expired." />
       <item value="You have confirmed your account. Thanks!" />
       <item value="You can now login." />
@@ -42,7 +43,6 @@
       <item value="Change Your Password" />
       <item value="Before you can access this site you need to confirm your account. Check your inbox, you should have received an email with a confirmation link." />
       <item value="Need another confirmation email?" />
-      <item value="You have not confirmed your account yet." />
       <item value="Passwords must match." />
       <item value="Update Password" />
       <item value="Confirm new password" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
