@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Your password has been updated." />
+      <item value="reset" />
+      <item value="Account" />
+      <item value="Change Your Password" />
       <item value="You have not confirmed your account yet." />
       <item value="The confirmation link is invalid or has expired." />
       <item value="You have confirmed your account. Thanks!" />
@@ -34,13 +38,11 @@
       <item value="Reset Password" />
       <item value="Password Reset Form" />
       <item value="Password Reset Request Form" />
-      <item value="Your password has been updated." />
       <item value="password reset" />
       <item value="Reset Your Password" />
       <item value="An email with instructions to reset your password has been ' 'sent to you." />
       <item value="Reset Your Password'" />
       <item value="Invalid password." />
-      <item value="Change Your Password" />
       <item value="Before you can access this site you need to confirm your account. Check your inbox, you should have received an email with a confirmation link." />
       <item value="Need another confirmation email?" />
       <item value="Passwords must match." />
@@ -49,13 +51,11 @@
       <item value="Confirm Your Account" />
       <item value="A new confirmation email has been sent to you by email." />
       <item value="A confirmation email has been sent to you by email" />
-      <item value="Passwords must match" />
-      <item value="Usernames must have only letters, numbers, dots or ' 'underscores'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
