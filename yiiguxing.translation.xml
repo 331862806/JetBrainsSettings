@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="b'mail from address must be same as authorization user', '=?utf-8?b?54ix5LiO55Sf55qE6Ium5oG8IEFkbWlu?= &lt;chenhuan@xxxxxxxx.com&gt;'" />
+      <item value="jinja2.exceptions.TemplateNotFound: email/change_email.txt" />
+      <item value="MAIL SENDER" />
+      <item value="SUBJECT PREFIX" />
       <item value="hard to guess string" />
       <item value="SENDER" />
       <item value="subject" />
@@ -47,16 +51,12 @@
       <item value="Reset Your Password" />
       <item value="An email with instructions to reset your password has been ' 'sent to you." />
       <item value="Reset Your Password'" />
-      <item value="Invalid password." />
-      <item value="Before you can access this site you need to confirm your account. Check your inbox, you should have received an email with a confirmation link." />
-      <item value="Need another confirmation email?" />
-      <item value="Passwords must match." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
-        <entry key="DANISH" value="4" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
+        <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
