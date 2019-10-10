@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decorator" />
+      <item value="required" />
       <item value="Anonymous User" />
       <item value="MODERATE" />
       <item value="WRITE" />
@@ -49,13 +51,11 @@
       <item value="Invalid request." />
       <item value="Your email address has been updated." />
       <item value="Change Your Email Address" />
-      <item value="An email with instructions to confirm your new email ' 'address has been sent to you" />
-      <item value="Confirm your email address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
