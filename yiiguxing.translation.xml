@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forbidden" />
       <item value="decorator" />
       <item value="required" />
       <item value="Anonymous User" />
@@ -50,12 +51,11 @@
       <item value="password reset request" />
       <item value="Invalid request." />
       <item value="Your email address has been updated." />
-      <item value="Change Your Email Address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
