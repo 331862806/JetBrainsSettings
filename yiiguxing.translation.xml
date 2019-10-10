@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Profile" />
+      <item value="is authenticated" />
+      <item value="Last seen" />
+      <item value="Member since" />
+      <item value="from" />
+      <item value="meth:`first` but aborts with 404 if not found instead of returning ``None``.&quot;&quot;&quot;" />
       <item value="Forbidden" />
       <item value="decorator" />
       <item value="required" />
@@ -45,17 +51,11 @@
       <item value="Invalid email or password." />
       <item value="login manager" />
       <item value="password is not a readable attribute" />
-      <item value="Happy to see you again!" />
-      <item value="Pleased to meet you!" />
-      <item value="container" />
-      <item value="password reset request" />
-      <item value="Invalid request." />
-      <item value="Your email address has been updated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
