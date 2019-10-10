@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initial commit" />
       <item value="Click here to reset it" />
       <item value="Note: replies to this email address are not monitored." />
       <item value="Sincerely" />
@@ -50,11 +51,10 @@
       <item value="Username already in use." />
       <item value="Keep me logged in" />
       <item value="Register" />
-      <item value="Confirm password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
+        <entry key="CHINESE" value="143" />
         <entry key="ENGLISH" value="143" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
