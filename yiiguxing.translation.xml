@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MODERATE" />
+      <item value="WRITE" />
+      <item value="COMMENT" />
+      <item value="FOLLOW" />
+      <item value="perm" />
+      <item value="permissions" />
+      <item value="default" />
       <item value="Initial commit" />
       <item value="Click here to reset it" />
       <item value="Note: replies to this email address are not monitored." />
@@ -44,18 +51,11 @@
       <item value="An email with instructions to confirm your new email ' 'address has been sent to you" />
       <item value="Confirm your email address" />
       <item value="change email request" />
-      <item value="change email" />
-      <item value="Email already registered." />
-      <item value="Update Email Address'" />
-      <item value="Change Email Form" />
-      <item value="Username already in use." />
-      <item value="Keep me logged in" />
-      <item value="Register" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
