@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Click here to reset it" />
+      <item value="Note: replies to this email address are not monitored." />
+      <item value="Sincerely" />
+      <item value="Alternatively, you can paste the following link in your browser's address bar:" />
+      <item value="To confirm your new email address" />
+      <item value="Forgot your password?" />
+      <item value="unconfirmed" />
       <item value="b'mail from address must be same as authorization user', '=?utf-8?b?54ix5LiO55Sf55qE6Ium5oG8IEFkbWlu?= &lt;chenhuan@xxxxxxxx.com&gt;'" />
       <item value="jinja2.exceptions.TemplateNotFound: email/change_email.txt" />
       <item value="MAIL SENDER" />
@@ -44,18 +51,11 @@
       <item value="Keep me logged in" />
       <item value="Register" />
       <item value="Confirm password" />
-      <item value="Reset Password" />
-      <item value="Password Reset Form" />
-      <item value="Password Reset Request Form" />
-      <item value="password reset" />
-      <item value="Reset Your Password" />
-      <item value="An email with instructions to reset your password has been ' 'sent to you." />
-      <item value="Reset Your Password'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
