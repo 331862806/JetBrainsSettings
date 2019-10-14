@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Username already in use." />
+      <item value="Email already registered." />
+      <item value="Role" />
+      <item value="Confirmed" />
+      <item value="Usernames must have only letters, numbers, dots or ' 'underscores'" />
       <item value="Your profile has been updated." />
       <item value="Real name" />
       <item value="Member since" />
@@ -46,16 +51,11 @@
       <item value="The confirmation link is invalid or has expired." />
       <item value="You have confirmed your account. Thanks!" />
       <item value="You can now login." />
-      <item value="New user" />
-      <item value="Click here to register" />
-      <item value="Stranger" />
-      <item value="You have been logged out." />
-      <item value="Invalid email or password." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
