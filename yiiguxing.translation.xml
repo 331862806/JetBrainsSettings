@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Edit Your Profile" />
+      <item value="Edit Profile" />
+      <item value="The profile has been updated." />
       <item value="Username already in use." />
       <item value="Email already registered." />
       <item value="Role" />
@@ -48,14 +51,11 @@
       <item value="Account" />
       <item value="Change Your Password" />
       <item value="You have not confirmed your account yet." />
-      <item value="The confirmation link is invalid or has expired." />
-      <item value="You have confirmed your account. Thanks!" />
-      <item value="You can now login." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
