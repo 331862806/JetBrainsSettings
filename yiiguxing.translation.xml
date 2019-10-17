@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="What's on your mind?" />
       <item value="发布" />
       <item value="Column" />
       <item value="lazy" />
@@ -50,12 +51,11 @@
       <item value="Forgot your password?" />
       <item value="unconfirmed" />
       <item value="b'mail from address must be same as authorization user', '=?utf-8?b?54ix5LiO55Sf55qE6Ium5oG8IEFkbWlu?= &lt;chenhuan@xxxxxxxx.com&gt;'" />
-      <item value="jinja2.exceptions.TemplateNotFound: email/change_email.txt" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
       </map>
