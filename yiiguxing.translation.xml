@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审批" />
       <item value="Test From" />
       <item value="est From" />
       <item value="表单" />
@@ -50,11 +51,10 @@
       <item value="Anonymous User" />
       <item value="FOLLOW" />
       <item value="perm" />
-      <item value="permissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
+        <entry key="CHINESE" value="187" />
         <entry key="ENGLISH" value="187" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
