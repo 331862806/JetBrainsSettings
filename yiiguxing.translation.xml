@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="申请人" />
       <item value="yzf api data" />
       <item value="猫池服务" />
       <item value="审批" />
@@ -50,12 +51,11 @@
       <item value="Forbidden" />
       <item value="decorator" />
       <item value="required" />
-      <item value="Anonymous User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="190" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
