@@ -1,61 +1,65 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="cannot import name 'Flask'" />
-      <item value="'str' object has no attribute 'access_level'" />
-      <item value="'ProjectMember' object is not subscriptable" />
-      <item value="string indices must be integers" />
-      <item value="单词" />
-      <item value="文字" />
-      <item value="例子" />
-      <item value="从数据库查找id替换git id" />
-      <item value="'set' object has no attribute 'split'" />
-      <item value="people" />
-      <item value="人" />
-      <item value="参数" />
-      <item value="strip" />
-      <item value="namespace" />
-      <item value="expect(x.class List.contains('active')).to.be.true" />
-      <item value="纵" />
-      <item value="Horizontal" />
-      <item value="横向" />
-      <item value="direction" />
-      <item value="director" />
+      <item value="申请人" />
+      <item value="yzf api data" />
+      <item value="猫池服务" />
+      <item value="审批" />
+      <item value="Test From" />
+      <item value="est From" />
+      <item value="表单" />
+      <item value="has prev" />
+      <item value="提交人" />
+      <item value="**NOTE** this validator used to be called `Required` but the way it behaved (requiring coerced data, not input data) meant it functioned in a way which was not symmetric to the `Optional` validator and furthermore caused confusion with certain fields which coerced data to 'falsey' values like ``0``, ``Decimal(0)``, ``time(0)`` etc. Unless a very specific reason exists, we recommend using the :class:`InputRequired` instead." />
+      <item value="If the data is empty, also removes prior errors (such as processing errors) from the field." />
+      <item value="This validator checks that the ``data`` attribute on the field is a 'true' value (effectively, it does ``if field.data``.) Furthermore, if the data is a string type, a string containing only whitespace characters is considered false." />
+      <item value="Checks the field's data is 'truthy' otherwise stops the validation chain." />
+      <item value="测试表单" />
+      <item value="MODERATE" />
+      <item value="WRITE" />
+      <item value="COMMENT" />
+      <item value="What's on your mind?" />
+      <item value="发布" />
+      <item value="Column" />
+      <item value="lazy" />
+      <item value="backref" />
+      <item value="项目" />
+      <item value="备注" />
+      <item value="&#9;需求号" />
+      <item value="发布环境" />
+      <item value="测试环境" />
+      <item value="发布时间" />
+      <item value="SVN权限" />
+      <item value="项目名称" />
+      <item value="autoincrement needs PK" />
+      <item value="Edit Your Profile" />
+      <item value="Edit Profile" />
+      <item value="The profile has been updated." />
+      <item value="Username already in use." />
+      <item value="Email already registered." />
+      <item value="Role" />
+      <item value="Confirmed" />
+      <item value="Usernames must have only letters, numbers, dots or ' 'underscores'" />
+      <item value="Your profile has been updated." />
+      <item value="Real name" />
+      <item value="Member since" />
+      <item value="Profile" />
+      <item value="is authenticated" />
+      <item value="Last seen" />
+      <item value="from" />
+      <item value="meth:`first` but aborts with 404 if not found instead of returning ``None``.&quot;&quot;&quot;" />
+      <item value="Forbidden" />
+      <item value="decorator" />
       <item value="required" />
-      <item value="sports" />
-      <item value="财经" />
-      <item value="Uncaught AssertionError: expected true to equal false" />
-      <item value="slide Down" />
-      <item value="fade in" />
-      <item value="perfect" />
-      <item value="perfect match!" />
-      <item value="match" />
-      <item value="KHTML" />
-      <item value="Contrast JSON result --&gt; perfect match!" />
-      <item value="target json" />
-      <item value="expect json" />
-      <item value="diff json error" />
-      <item value="Call a function after a specified number of seconds:" />
-      <item value="urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=45403): Max retries exceeded with url: /session/7c67c1331e01c731f1fa03f74c708b52/url (Caused by NewConnectionError('&lt;urllib3.connection.HTTPConnection object at 0x7fc8bfbb7470&gt;: Failed to establish a new connection: [Errno 111] Connection refused',))" />
-      <item value="During handling of the above exception, another exception occurred:" />
-      <item value="ConnectionRefusedError: [Errno 111] Connection refused" />
-      <item value="Exception in thread Thread-2:" />
-      <item value="iter now" />
-      <item value="command" />
-      <item value="Sleeping until" />
-      <item value="Starting every 5 seconds" />
-      <item value="execute the command" />
-      <item value="Starting" />
-      <item value="Command" />
-      <item value="descriptor 'keys' of 'dict' object needs an argument" />
-      <item value="callable" />
-      <item value="Unable to locate element:" />
-      <item value="Missing required arguments:form_component_values.name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="191" />
+        <entry key="DANISH" value="5" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
