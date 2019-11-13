@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="endpoint" />
+      <item value="total items" />
+      <item value="total pages" />
+      <item value="page" />
+      <item value="per page" />
+      <item value="query" />
+      <item value="to collection dict" />
+      <item value="to colleciton dict" />
+      <item value="staticmethod" />
+      <item value="Paginated API Mixin" />
       <item value="Init Flask-SQLAlchemy" />
       <item value="Init" />
       <item value="SQLALCHEMY TRACK MODIFICATIONS" />
@@ -41,21 +51,11 @@
       <item value="Edit Profile" />
       <item value="The profile has been updated." />
       <item value="Username already in use." />
-      <item value="Email already registered." />
-      <item value="Role" />
-      <item value="Confirmed" />
-      <item value="Usernames must have only letters, numbers, dots or ' 'underscores'" />
-      <item value="Your profile has been updated." />
-      <item value="Real name" />
-      <item value="Member since" />
-      <item value="Profile" />
-      <item value="is authenticated" />
-      <item value="Last seen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
