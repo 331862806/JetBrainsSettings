@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Init Flask-SQLAlchemy" />
+      <item value="Init" />
+      <item value="SQLALCHEMY TRACK MODIFICATIONS" />
+      <item value="SQLALCHEMY DATABASE URI" />
       <item value="enable" />
       <item value="申请人" />
       <item value="yzf api data" />
@@ -47,15 +51,11 @@
       <item value="Profile" />
       <item value="is authenticated" />
       <item value="Last seen" />
-      <item value="from" />
-      <item value="meth:`first` but aborts with 404 if not found instead of returning ``None``.&quot;&quot;&quot;" />
-      <item value="Forbidden" />
-      <item value="decorator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
