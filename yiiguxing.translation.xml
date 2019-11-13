@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="new user" />
+      <item value="Please provide a valid username." />
+      <item value="Please provide a valid email address." />
+      <item value="Please provide a valid password." />
+      <item value="Please use a different username." />
+      <item value="valid" />
+      <item value="avalid" />
+      <item value="Please provide avalid username." />
+      <item value="provide" />
+      <item value="You must post JSON data'" />
+      <item value="data" />
       <item value="endpoint" />
       <item value="total items" />
       <item value="total pages" />
@@ -40,22 +51,12 @@
       <item value="backref" />
       <item value="项目" />
       <item value="备注" />
-      <item value="&#9;需求号" />
-      <item value="发布环境" />
-      <item value="测试环境" />
-      <item value="发布时间" />
-      <item value="SVN权限" />
-      <item value="项目名称" />
-      <item value="autoincrement needs PK" />
-      <item value="Edit Your Profile" />
-      <item value="Edit Profile" />
-      <item value="The profile has been updated." />
-      <item value="Username already in use." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
+        <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
