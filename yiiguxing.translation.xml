@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="new user" />
-      <item value="Please provide a valid username." />
-      <item value="Please provide a valid email address." />
-      <item value="Please provide a valid password." />
+      <item value="Please use a different email address." />
       <item value="Please use a different username." />
+      <item value="Please provide a valid username." />
+      <item value="lease provide a valid username." />
+      <item value="Please provide a valid email address." />
+      <item value="new user" />
+      <item value="Please provide a valid password." />
       <item value="valid" />
       <item value="avalid" />
       <item value="Please provide avalid username." />
@@ -49,13 +51,11 @@
       <item value="Column" />
       <item value="lazy" />
       <item value="backref" />
-      <item value="项目" />
-      <item value="备注" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
