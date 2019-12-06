@@ -1,7 +1,41 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="component" />
+      <item value="revoke token" />
+      <item value="token auth" />
+      <item value="bp" />
+      <item value="basic auth" />
+      <item value="HTTP Basic Auth" />
+      <item value="timedelta" />
+      <item value="token expiration" />
+      <item value="Please use a different email address." />
+      <item value="Please use a different username." />
+      <item value="Please provide a valid username." />
+      <item value="lease provide a valid username." />
+      <item value="Please provide a valid email address." />
+      <item value="new user" />
+      <item value="Please provide a valid password." />
+      <item value="valid" />
+      <item value="avalid" />
+      <item value="Please provide avalid username." />
+      <item value="provide" />
+      <item value="You must post JSON data'" />
+      <item value="data" />
+      <item value="endpoint" />
+      <item value="total items" />
+      <item value="total pages" />
+      <item value="page" />
+      <item value="per page" />
+      <item value="query" />
+      <item value="to collection dict" />
+      <item value="to colleciton dict" />
+      <item value="staticmethod" />
+      <item value="Paginated API Mixin" />
+      <item value="Init Flask-SQLAlchemy" />
+      <item value="Init" />
+      <item value="SQLALCHEMY TRACK MODIFICATIONS" />
+      <item value="SQLALCHEMY DATABASE URI" />
+      <item value="enable" />
       <item value="申请人" />
       <item value="yzf api data" />
       <item value="猫池服务" />
@@ -17,46 +51,13 @@
       <item value="Checks the field's data is 'truthy' otherwise stops the validation chain." />
       <item value="测试表单" />
       <item value="MODERATE" />
-      <item value="WRITE" />
-      <item value="COMMENT" />
-      <item value="What's on your mind?" />
-      <item value="发布" />
-      <item value="Column" />
-      <item value="lazy" />
-      <item value="backref" />
-      <item value="项目" />
-      <item value="备注" />
-      <item value="&#9;需求号" />
-      <item value="发布环境" />
-      <item value="测试环境" />
-      <item value="发布时间" />
-      <item value="SVN权限" />
-      <item value="项目名称" />
-      <item value="autoincrement needs PK" />
-      <item value="Edit Your Profile" />
-      <item value="Edit Profile" />
-      <item value="The profile has been updated." />
-      <item value="Username already in use." />
-      <item value="Email already registered." />
-      <item value="Role" />
-      <item value="Confirmed" />
-      <item value="Usernames must have only letters, numbers, dots or ' 'underscores'" />
-      <item value="Your profile has been updated." />
-      <item value="Real name" />
-      <item value="Member since" />
-      <item value="Profile" />
-      <item value="is authenticated" />
-      <item value="Last seen" />
-      <item value="from" />
-      <item value="meth:`first` but aborts with 404 if not found instead of returning ``None``.&quot;&quot;&quot;" />
-      <item value="Forbidden" />
-      <item value="decorator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
-        <entry key="DANISH" value="5" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
+        <entry key="ESTONIAN" value="2" />
+        <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
