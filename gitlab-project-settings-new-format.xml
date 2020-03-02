@@ -254,6 +254,78 @@
           <option name="namespace" value="subsystem" />
           <option name="sshUrl" value="git@gitlab.yzf.net:subsystem/daizhang.cro.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/chenhuan/chenhuantest.git" />
+          <option name="name" value="chenhuantest" />
+          <option name="namespace" value="chenhuan" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:chenhuan/chenhuantest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/chenhuan/qcm.git" />
+          <option name="name" value="qcm" />
+          <option name="namespace" value="chenhuan" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:chenhuan/qcm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/huanghe/ceshi.git" />
+          <option name="name" value="ceshi" />
+          <option name="namespace" value="huanghe" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:huanghe/ceshi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/huanghe/test.git" />
+          <option name="name" value="test" />
+          <option name="namespace" value="huanghe" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:huanghe/test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/liuyunxiang/dz_case.git" />
+          <option name="name" value="dz_case" />
+          <option name="namespace" value="liuyunxiang" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:liuyunxiang/dz_case.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/subsystem/daizhang.cro.git" />
+          <option name="name" value="daizhang.cro" />
+          <option name="namespace" value="subsystem" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:subsystem/daizhang.cro.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/chenhuan/chenhuantest.git" />
+          <option name="name" value="chenhuantest" />
+          <option name="namespace" value="chenhuan" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:chenhuan/chenhuantest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/chenhuan/qcm.git" />
+          <option name="name" value="qcm" />
+          <option name="namespace" value="chenhuan" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:chenhuan/qcm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/huanghe/ceshi.git" />
+          <option name="name" value="ceshi" />
+          <option name="namespace" value="huanghe" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:huanghe/ceshi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/huanghe/test.git" />
+          <option name="name" value="test" />
+          <option name="namespace" value="huanghe" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:huanghe/test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/liuyunxiang/dz_case.git" />
+          <option name="name" value="dz_case" />
+          <option name="namespace" value="liuyunxiang" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:liuyunxiang/dz_case.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.yzf.net/subsystem/daizhang.cro.git" />
+          <option name="name" value="daizhang.cro" />
+          <option name="namespace" value="subsystem" />
+          <option name="sshUrl" value="git@gitlab.yzf.net:subsystem/daizhang.cro.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
