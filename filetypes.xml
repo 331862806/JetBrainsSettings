@@ -11,6 +11,7 @@
       <mapping pattern="vuejs监听事件" type="PLAIN_TEXT" />
       <mapping pattern="第二题.md" type="PLAIN_TEXT" />
       <mapping pattern="第四题" type="PLAIN_TEXT" />
+      <mapping pattern="启动说明" type="PLAIN_TEXT" />
       <mapping pattern="wasd" type="PLAIN_TEXT" />
       <mapping pattern="练习" type="PLAIN_TEXT" />
       <mapping pattern="db" type="PLAIN_TEXT" />
