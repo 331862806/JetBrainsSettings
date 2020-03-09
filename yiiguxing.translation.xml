@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: 'NoneType' object is not iterable" />
+      <item value="Date Time" />
       <item value="Key is invalid." />
       <item value="revoke token" />
       <item value="token auth" />
@@ -49,13 +51,11 @@
       <item value="**NOTE** this validator used to be called `Required` but the way it behaved (requiring coerced data, not input data) meant it functioned in a way which was not symmetric to the `Optional` validator and furthermore caused confusion with certain fields which coerced data to 'falsey' values like ``0``, ``Decimal(0)``, ``time(0)`` etc. Unless a very specific reason exists, we recommend using the :class:`InputRequired` instead." />
       <item value="If the data is empty, also removes prior errors (such as processing errors) from the field." />
       <item value="This validator checks that the ``data`` attribute on the field is a 'true' value (effectively, it does ``if field.data``.) Furthermore, if the data is a string type, a string containing only whitespace characters is considered false." />
-      <item value="Checks the field's data is 'truthy' otherwise stops the validation chain." />
-      <item value="测试表单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
