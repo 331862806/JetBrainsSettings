@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="状态" />
+      <item value="stats" />
+      <item value="view project" />
+      <item value="需求" />
+      <item value="负责人" />
+      <item value="所属项目" />
       <item value="editor" />
       <item value="TypeError: 'NoneType' object is not iterable" />
       <item value="Date Time" />
@@ -45,17 +51,11 @@
       <item value="猫池服务" />
       <item value="审批" />
       <item value="Test From" />
-      <item value="est From" />
-      <item value="表单" />
-      <item value="has prev" />
-      <item value="提交人" />
-      <item value="**NOTE** this validator used to be called `Required` but the way it behaved (requiring coerced data, not input data) meant it functioned in a way which was not symmetric to the `Optional` validator and furthermore caused confusion with certain fields which coerced data to 'falsey' values like ``0``, ``Decimal(0)``, ``time(0)`` etc. Unless a very specific reason exists, we recommend using the :class:`InputRequired` instead." />
-      <item value="If the data is empty, also removes prior errors (such as processing errors) from the field." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="236" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
