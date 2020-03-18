@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Right your mother right" />
+      <item value="Right" />
+      <item value="门禁" />
       <item value="demand" />
       <item value="when your routing map is too long, you can split it into small modules" />
       <item value="When your routing table is too long, you can split it into small modules" />
@@ -48,14 +51,11 @@
       <item value="page" />
       <item value="per page" />
       <item value="query" />
-      <item value="to collection dict" />
-      <item value="to colleciton dict" />
-      <item value="staticmethod" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
