@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redirect" />
       <item value="dashboard" />
       <item value="desc" />
       <item value="release demand list" />
@@ -50,12 +51,11 @@
       <item value="Paginated API Mixin" />
       <item value="Init Flask-SQLAlchemy" />
       <item value="Init" />
-      <item value="SQLALCHEMY TRACK MODIFICATIONS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
