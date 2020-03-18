@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="when your routing map is too long, you can split it into small modules" />
       <item value="When your routing table is too long, you can split it into small modules" />
       <item value="redirect" />
       <item value="dashboard" />
@@ -50,12 +51,11 @@
       <item value="to colleciton dict" />
       <item value="staticmethod" />
       <item value="Paginated API Mixin" />
-      <item value="Init Flask-SQLAlchemy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
