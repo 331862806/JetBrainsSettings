@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mock a id" />
+      <item value="next Tick" />
+      <item value="$next Tick" />
+      <item value="dialog Form Visible" />
+      <item value="dialog Status" />
+      <item value="处理创建" />
+      <item value="handle Create" />
+      <item value="reset Temp" />
       <item value="Draft" />
       <item value="Publish" />
       <item value="Actions" />
@@ -43,19 +51,11 @@
       <item value="状态" />
       <item value="stats" />
       <item value="view project" />
-      <item value="需求" />
-      <item value="负责人" />
-      <item value="所属项目" />
-      <item value="editor" />
-      <item value="TypeError: 'NoneType' object is not iterable" />
-      <item value="Date Time" />
-      <item value="Key is invalid." />
-      <item value="revoke token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="281" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
