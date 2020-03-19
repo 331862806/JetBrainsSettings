@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actions" />
       <item value="Just to simulate the time of the request" />
       <item value="fetch List" />
       <item value="list Loading" />
@@ -50,12 +51,11 @@
       <item value="revoke token" />
       <item value="token auth" />
       <item value="bp" />
-      <item value="basic auth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
