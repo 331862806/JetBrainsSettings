@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prop" />
       <item value="Confirm" />
       <item value="fetch Case List" />
       <item value="mock a id" />
@@ -50,16 +51,16 @@
       <item value="user dev" />
       <item value="user product" />
       <item value="release name" />
-      <item value="状态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
+        <entry key="CHINESE" value="292" />
         <entry key="ENGLISH" value="292" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
