@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fetch Case List" />
       <item value="handle Fetch Zt Demand" />
       <item value="prop" />
       <item value="Confirm" />
-      <item value="fetch Case List" />
       <item value="mock a id" />
       <item value="next Tick" />
       <item value="$next Tick" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
