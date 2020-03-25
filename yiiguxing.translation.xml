@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user product" />
+      <item value="release name" />
       <item value="Development Config" />
       <item value="migrate" />
       <item value="fetch Case List" />
@@ -49,13 +51,11 @@
       <item value="redirect" />
       <item value="dashboard" />
       <item value="desc" />
-      <item value="release demand list" />
-      <item value="release bug list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
