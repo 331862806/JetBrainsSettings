@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate fake" />
       <item value="人员" />
       <item value="zendao" />
       <item value="user product" />
@@ -50,12 +51,11 @@
       <item value="demand" />
       <item value="when your routing map is too long, you can split it into small modules" />
       <item value="When your routing table is too long, you can split it into small modules" />
-      <item value="redirect" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
