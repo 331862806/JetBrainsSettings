@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="migrate" />
       <item value="fetch Case List" />
       <item value="handle Fetch Zt Demand" />
       <item value="prop" />
@@ -50,12 +51,11 @@
       <item value="release demand list" />
       <item value="release bug list" />
       <item value="user dev" />
-      <item value="user product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
